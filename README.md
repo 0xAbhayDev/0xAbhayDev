@@ -55,7 +55,7 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=0xAbhayDev3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
