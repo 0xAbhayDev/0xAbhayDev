@@ -51,8 +51,13 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xAbhayDev)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xAbhayDev)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 Fuel for the Grind
+
+> 💬 *"Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it."*  
+> — Code, Fail, Repeat, Win. 💡
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0xAbhayDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
