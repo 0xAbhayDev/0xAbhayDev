@@ -1,4 +1,8 @@
+ <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+ 
 # 💫 Hi 👋, I'm Abhay Mourya
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 **A passionate Webdevloper**
 
 Email Me 👉 ✉️ **abhaymourya102@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -9,7 +13,7 @@ Email Me 👉 ✉️ **abhaymourya102@gmail.com** For Collaboration/Project or A
 - 📫 **How to reach me:** abhaymourya102@gmail.com
 - 😄 **Pronouns:** Abhay Sir
 
-## 🔗 I am a Content Creator. 😊😊
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
@@ -22,10 +26,11 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="35%">      <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="35%">
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
